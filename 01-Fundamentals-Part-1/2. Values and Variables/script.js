@@ -1,7 +1,7 @@
-alert("Hello World");
-
 let js = "amazing";
-if (js === "amazing") alert("JavaScript is fun!!");
+if (js === "amazing") {
+  alert("JavaScript is fun!!");
+}
 
 let myName = "Mujaahid";
 console.log(myName);
